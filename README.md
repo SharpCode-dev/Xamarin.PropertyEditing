@@ -2,3 +2,9 @@
 [![Build Status](https://dev.azure.com/xamarin/public/_apis/build/status/xamarin/Xamarin.PropertyEditing/Xamarin.PropertyEditing%20(Public)?branchName=main)](https://dev.azure.com/xamarin/public/_build/latest?definitionId=51&branchName=main)
 
 This repository is no longer actively maintained or developed.
+
+### Build
+
+Build with Visual Studio 2022.
+
+Xamarin.PropertyEditing.Windows.Standalone is a WPF project.
